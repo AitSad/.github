@@ -1,6 +1,8 @@
 <h1 align="center">Welcome to AitSad <img height=35 src="https://github.com/AitSad/Static/blob/main/.github/waving.gif"></h1>
 
-AitSad remained a sub-schemed structure of the predecessor BS Consortium, the Bumping Series Consortium, which is a Consortium standard for mathematical inventions. The consortium, previously named AG Consortium, Imtaved room, Center of Study, deprecates at the end of the Cambridge Examination May/June 2023 examination series, and won't shift anywhere. The only surviving content by the BS Consortium remains [here](https://www.amazon.com/Collection-Theorems-Aitzaz-Imtiaz-ebook/dp/B0BTMPB4M1/ref=sr_1_7?crid=S27GKQ5NBMSB&keywords=aitzaz+imtiaz&qid=1678548711&sprefix=aitza%2Caps%2C319&sr=8-7). 
+AitSad remained a sub-schemed structure of the predecessor BS Consortium, the Bumping Series Consortium, which is a Consortium standard for mathematical inventions. The consortium, previously named AG Consortium, Imtaved room, Center of Study, deprecated at the end of the Cambridge Examination May/June 2023 examination series, and won't shift anywhere. The only surviving content by the BS Consortium remains [here](https://www.amazon.com/Collection-Theorems-Aitzaz-Imtiaz-ebook/dp/B0BTMPB4M1/ref=sr_1_7?crid=S27GKQ5NBMSB&keywords=aitzaz+imtiaz&qid=1678548711&sprefix=aitza%2Caps%2C319&sr=8-7). 
+
+AiTsAd Is TaKeN bY [BS Consortium](https://github.com/B-Consortium)
 
 ## Who we are?
 <img width=1000 src="https://github.com/AitSad/Static/blob/main/.github/quantum.gif">
